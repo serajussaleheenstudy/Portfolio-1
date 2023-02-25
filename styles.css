@@ -2,3 +2,17 @@
     padding: 0;
     margin: 0;
 }
+
+.container{
+    display: flex;
+}
+
+.sidebar{
+    background-color: red;
+    width: 20vw;
+}
+
+.main{
+    background-color: blueviolet;
+    width: 80vw;
+}
